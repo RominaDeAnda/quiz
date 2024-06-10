@@ -1,0 +1,36 @@
+<html>
+       
+        <body style="text-align: center; background-image: url(https://i.pinimg.com/750x/4f/13/7d/4f137d5a6789a12f472c52269e09bba2.jpg)">
+	        <br>
+	<p style="font-family: century gothic; font-size: 40px;">QUIZ ABOUT MUSIC!!!!</p>   
+	        
+    <p style="font-family: century gothic; font-size: 20px;">Which artist is your favorite? </p>
+    <input type="radio" name="musica" value="rock">Mac Miller<br>
+    <input type="radio" name="musica" value="Pop"> Post Malone <br>
+    <input type="radio" name="musica" value="Indie"> Travis Scott <br>
+
+<p style="font-family: century gothic; font-size: 20px;">Which song is your favorite? </p>
+    <input type="radio" name="song" value="rock">Self care- Mac Miller<br>
+    <input type="radio" name="song" value="Pop"> Circles-Post Malone <br>
+    <input type="radio" name="song" value="Indie"> Too good-Drake<br>
+	  
+	        <p style="font-family: century gothic; font-size: 20px;">Which album is your favorite? </p>
+    <input type="radio" name="album" value="rock">Views-Drake<br>
+    <input type="radio" name="album" value="Pop"> Hollywood´s bleeding-Post Malone<br>
+    <input type="radio" name="album" value="Indie">Astroworld-Travis Scott<br>
+	        
+	   <p style="font-family: century gothic; font-size: 20px;">Which band is your favorite? </p>
+    <input type="radio" name="band" value="rock">Arctic monkeys<br>
+    <input type="radio" name="band" value="Pop"> The strokes<br>
+    <input type="radio" name="band" value="Indie">The 1975<br>   
+	        
+	       <div>
+                    <center><button  style="border-radius: 200px; background-color: cornsilk; color: grey;  font-size: 50">Send Answers</button></center>
+                    </div>
+
+                   
+	        
+    </body>
+	    
+	
+</html>
